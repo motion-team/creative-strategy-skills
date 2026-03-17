@@ -24,7 +24,7 @@ This repo currently includes **eight creative strategy skills**:
 Open your terminal (wherever you use skills) and paste this:
 
 ```bash
-npx skills add alyshafrommotion/creative-strategy-skills
+npx skills add motion-team/creative-strategy-skills
 ```
 
 That's it. The skills are now available in every conversation. No configuration needed. ☺️
