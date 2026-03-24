@@ -24,7 +24,7 @@ This repo currently includes **eight creative strategy skills**:
 Open your terminal (wherever you use skills) and paste this:
 
 ```bash
-npx skills add motion-team/creative-strategy-skills
+npx skills add alyshafrommotion/creative-strategy-skills
 ```
 
 That's it. The skills are now available in every conversation. No configuration needed. ☺️
@@ -86,3 +86,15 @@ The stack works best as a creative workflow:
 7. **Refine with hook-tactics and hook-voice-patterns** — broaden your hook range or sharpen the native feel of the language.
 
 You can do all of this in a single conversation. Keep building on what the agent gives you.
+
+---
+
+## Take It Further with Motion
+
+These skills help you plan and build creative. [Motion](https://motionapp.com/) helps you understand what's actually working once it's in market.
+
+Motion is a paid social analytics platform that pulls in your Meta ads data and automatically tags every ad by hook tactic, messaging angle, and visual format — the same frameworks these skills are built on. So once your creative is live, you can sort and filter your entire ad account by those dimensions, build custom reports, and rank creatives by metrics like thumb stop rate to see exactly what's resonating.
+
+Motion also includes **Inspo** — a searchable library of top-performing Facebook ads you can browse by format, hook type, brand, or category, and save to boards like Pinterest. It's where these skills end and real-world creative intelligence begins.
+
+[Check out Motion →](https://motionapp.com/)
