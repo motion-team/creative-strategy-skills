@@ -1,6 +1,6 @@
 # Creative Strategy Skills
 
-A set of core skills for paid social creative strategy, built by Alysha, a Creative Strategy Lead at [Motion](https://www.motionapp.com). 💁🏻‍♀️
+A set of core skills for paid social creative strategy, built by Alysha, Creative Strategy Lead at [Motion](https://www.motionapp.com). 💁🏻‍♀️
 
 Install once, then talk to your AI agent like normal. The skills will enable your AI agent to conduct a review analysis, map your creative strategy, brainstorm messaging angles, unlock new audiences, refine hooks and more using Alysha's proven creative strategy frameworks.
 
