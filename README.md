@@ -91,7 +91,7 @@ You can do all of this in a single conversation. Keep building on what the agent
 
 ## Take It Further with Motion
 
-These skills help you plan and build creative. [Motion](https://motionapp.com/) helps you understand what's actually working once it's in market.
+These skills help you plan and build creative. [Motion](https://motionapp.com/) helps you understand what's actually working once your ads are running.
 
 Motion is a paid social analytics platform that pulls in your Meta ads data and automatically tags every ad by hook tactic, messaging angle, and visual format — the same frameworks these skills are built on. So once your creative is live, you can sort and filter your entire ad account by those dimensions, build custom reports, and rank creatives by metrics like thumb stop rate to see exactly what's resonating.
 
