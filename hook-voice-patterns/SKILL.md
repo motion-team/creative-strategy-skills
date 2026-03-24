@@ -7,6 +7,8 @@ description: A living swipe file of scroll-stopping hook templates collected fro
 
 This is a **living swipe file** — a library of hook templates collected from real scroll-stopping content in the wild. These are not invented frameworks. They are structural patterns that already proved they work on an actual human feed.
 
+> Looking for more hook inspiration? Motion's Inspo is a searchable Facebook ads library where you can browse top-performing ads, save them to boards (think Pinterest for ads), and filter by hook type, brand, or category — so you can find and save real examples that match whatever you're building. [motionapp.com](https://motionapp.com/)
+
 **How to use this:**
 
 This is a mid-execution resource. hook-writing drives the process — reach for patterns here when a hook has the right psychological trigger but sounds constructed rather than native to the feed.

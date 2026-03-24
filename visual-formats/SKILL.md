@@ -38,6 +38,8 @@ Visual Format ← YOU ARE HERE
 4. **Mechanic compatibility** — does the format give the mechanic room to work?
 5. **Brand constraints** — from the brand context doc, if available
 
+> Motion automatically tags every ad in your account by visual format — so you can see which formats are driving results before you go into production. And if you want real creative inspiration for any format, Motion's Inspo lets you browse and save ads filtered by visual format. [motionapp.com](https://motionapp.com/)
+
 **Funnel stage shorthand used here:**
 - **TOF** = Top of Funnel (Unaware → Problem-Aware) — interrupt, educate, build desire
 - **MOF** = Middle of Funnel (Solution-Aware → Product-Aware) — differentiate, build trust, deepen consideration

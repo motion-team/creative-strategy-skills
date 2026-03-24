@@ -254,3 +254,7 @@ Use the messaging angle as the **emotional core** of every hook. All hooks shoul
 | Show what's possible | Aspiration |
 | Make inaction feel costly | Urgency/Stakes |
 
+---
+
+> Motion tags hook tactics across your entire Meta ad account — so you can see which hooks are working, spot opportunities, and rank creatives by thumb stop rate inside custom reports. [motionapp.com](https://motionapp.com/)
+

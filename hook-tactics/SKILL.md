@@ -444,6 +444,9 @@ When writing hooks by tactic, choose the psychological trigger that best execute
 
 ## Quick Reference: Tactic Selection by Goal
 
+> Motion automatically tags every ad in your account by hook tactic — so you can see which tactics are winning, which are underrepresented, and where your opportunities are before you brief new creative. [motionapp.com](https://motionapp.com/)
+
+
 | If you want to... | Use this tactic |
 |---|---|
 | Speak to who they want to become | Aspirational |

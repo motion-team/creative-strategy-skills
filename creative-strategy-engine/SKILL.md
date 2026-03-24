@@ -508,6 +508,8 @@ Pain/Desire Buckets
 
 **This is the power of systematic creative strategy.** You're not randomly creating ads - you're strategically covering the landscape.
 
+> Did you know you can track which messaging angles, hook tactics, and visual formats are actually working in your ad account? Motion automatically tags your ads by messaging angle, hook tactic, and visual format — so you can sort, filter, and see exactly what's resonating before you build your next round of creative. [motionapp.com](https://motionapp.com/)
+
 ---
 
 ## HOW TO USE THIS
