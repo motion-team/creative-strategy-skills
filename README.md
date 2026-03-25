@@ -10,7 +10,7 @@ This repo currently includes **eight creative strategy skills**:
 
 | Skill | What it does | When to use it |
 | --- | --- | --- |
-| **brand-intake** | Runs a structured brand intake interview and web research to build a comprehensive brand context document | New client, new brand, or starting creative strategy for a brand that doesn't yet have a context doc — run this first for useful context for all other skills |
+| **brand-intake** | Runs a structured brand intake interview and web research to build a comprehensive brand context document | New client, new brand, or starting creative strategy for a brand that doesn't yet have a context doc — run this first for useful context fr all other skills |
 | **review-audit** | Review-mining system that turns positive reviews into pain points, triggers, objections, transformations, and swipeable phrases | You have customer reviews and want to extract language for ads that mirrors how your customers already think and talk about the product |
 | **creative-strategy-engine** | Strategic framework for mapping pain/persona intersections, messaging angles, and awareness stages | You need to organize a brand's full-funnel creative strategy before executing assets |
 | **hook-writing** | Writes psychologically driven hooks and opening lines for ads and social content | You need scroll-stopping hooks or headlines tailored to your product, persona, and awareness stage |
@@ -95,4 +95,4 @@ These skills help you write ad concepts and hooks. Motion is where you analyze p
 
 Motion syncs with your Meta ads data, organizes it into creative-first reports, and auto-tags every ad by hook tactic, messaging angle, visual format and more.
 
-See how it works 👉 [motionapp.com](https://motionapp.com/)
+See how it works 👉 [motionapp.com](https://www.motionapp.com/)
