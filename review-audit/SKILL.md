@@ -1,6 +1,6 @@
 ---
 name: review-audit
-description: Analyzes positive customer reviews to surface deep customer insights for ad copy. Use this whenever a user provides customer reviews and wants to understand their customers better, extract VOC (voice of customer), find ad-ready language, or build messaging strategy from real customer language. Trigger for any request involving "analyze these reviews," "what are customers saying," "find insights in these reviews," "VOC analysis," or any variation of wanting to mine customer reviews for creative strategy inputs. Output is always organized by product (if multiple), and surfaces five buckets of insight: pain points, trigger moments, objections, transformations, and standout language.
+description: 'Analyzes positive customer reviews to surface deep customer insights for ad copy. Use this whenever a user provides customer reviews and wants to understand their customers better, extract VOC (voice of customer), find ad-ready language, or build messaging strategy from real customer language. Trigger for any request involving "analyze these reviews," "what are customers saying," "find insights in these reviews," "VOC analysis," or any variation of wanting to mine customer reviews for creative strategy inputs. Output is always organized by product (if multiple), and surfaces five buckets of insight: pain points, trigger moments, objections, transformations, and standout language.'
 ---
 
 # Review Audit
@@ -203,4 +203,3 @@ The output of this analysis plugs directly into creative strategy and execution:
 - Score 2–3 reviews are useful for pattern confirmation but not quote sourcing
 - If the review set is small (under 20 reviews), note this — patterns may not be statistically meaningful but language is still usable
 - If a product has too few quality reviews to surface meaningful patterns, flag it rather than manufacturing themes that aren't there
-
